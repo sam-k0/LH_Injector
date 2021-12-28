@@ -2,8 +2,10 @@
 Loop Hero Injector lets you inject mods for Loop Hero.
 
 Comes with discord presence for loop hero.
+## Disclaimer
+DLL files (.dll) contain compiled code, just like other programs. If you do not trust software, do not run it on your PC. The files I created are harmless, but I have no control over other people's mods. Stay safe!
 
-# Usage
+# Usage / Setup
 
 drag and drop "Injector.exe" , "GMRPC.dll" and "discord-rpc.dll" in the gamefolder, where Loop Hero.exe is.
 
@@ -19,3 +21,8 @@ To start Loop Hero *modded*, launch "Injector.exe".
 # Passing other mods
 If you have a custom dll / mod you want to load, pass the relative filepath to that file *(example: mymod.dll, where mymod.dll resides in the same folder as Injector.exe)*
 - To make life easier, I recommend creating shortcuts with startup parameters for Injector.exe so you don't need to use the terminal for this everytime.
+
+# Unistalling
+
+To uninstall, delete all your downloaded .dll files and Injector.exe
+The game's files aren't modified by the Injector.
