@@ -2,6 +2,8 @@
 Loop Hero Injector lets you inject mods for Loop Hero.
 
 Comes with discord presence for loop hero.
+
+MD5 hash for current release:  7a4000d8a3ef66dca607c51fa514035a 
 ## Disclaimer
 DLL files (.dll) contain compiled code, just like other programs. If you do not trust software, do not run it on your PC. The files I created are harmless, but I have no control over other people's mods. Stay safe!
 
